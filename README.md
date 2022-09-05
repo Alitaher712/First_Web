@@ -1,2 +1,1 @@
-# Notary
-Notary: A coding project for searching through text in javascript
+Web site allow user to select book and read it and see some info about it 
