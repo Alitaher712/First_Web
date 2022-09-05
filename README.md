@@ -1,2 +1,2 @@
-# First_Web
-My first web page
+# Notary
+Notary: A coding project for searching through text in javascript
